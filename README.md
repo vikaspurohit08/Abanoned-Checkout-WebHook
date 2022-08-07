@@ -1,10 +1,6 @@
 # Abanoned-Checkout-WebHook
 
-# A tool to bring back the customer who go to checkout but do not go through with purchase.
-
-# The notification time is scheduled depending on the abandoned checkout time.
-
-# We can update the configuration as to when the notifications should be scheduled.
+A tool to bring back the customer who go to checkout but do not go through with purchase. The notification time is scheduled depending on the abandoned checkout time. We can update the configuration as to when the notifications should be scheduled.
 
 # Example
 
